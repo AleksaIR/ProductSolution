@@ -1,0 +1,14 @@
+﻿@model List<ProductGUI.Models.ProductDto>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.ProductName - @product.Price (@product.CategoryName)</li>
+    }
+</ul>

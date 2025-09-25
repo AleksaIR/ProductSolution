@@ -1,0 +1,2 @@
+C:\Users\Aleksa\Desktop\PS\LT\LT2\ProductAPI\ProductAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aleksa\Desktop\PS\LT\LT2\ProductAPI\ProductAPI\obj\Debug\net8.0\staticwebassets.build.json
